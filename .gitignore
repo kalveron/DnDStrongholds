@@ -75,3 +75,4 @@ crashlytics-build.properties
 /DnDStronghold/Library/*
 /DnDStronghold/Logs/*
 /DnDStronghold/Temp/*
+/DnDStronghold/obj/*
