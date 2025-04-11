@@ -12,3 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14d8d5196682df047b4af63179c6916c, type: 3}
   m_Name: TestStronghold
   m_EditorClassIdentifier: 
+  _displayName: Hilldrop
+  _location: 8
+  _proximity: 1
+  _level: 4
+  _focusType: 0
+  _entryDC: 1
+  _reconDC: 3
+  _exitDC: 2
+  _exitDiscoveredDC: 5
+  _knowledgeLevel: 0.57
+  _alerted: 1
+  _hidden: 0
+  _notes: Karmic is a Thug
